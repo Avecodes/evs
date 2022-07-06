@@ -1,0 +1,39 @@
+body{
+    background-image: url("image6.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(107, 102, 105, 0.512);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+p1{
+    color: rgba(238, 248, 248, 0.812);
+    background-color: rgba(98, 109, 108, 0.33);
+    font-family: "Verdana", Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    text-align:center;
+
+}
